@@ -1,0 +1,1478 @@
+Start testing: May 27 12:32 EEST
+----------------------------------------------------------
+7/15 Testing: Correctness.Buf_Simple
+7/15 Test: Correctness.Buf_Simple
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.Buf_Simple" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.Buf_Simple" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.Buf_Simple
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.Buf_Simple
+[       OK ] Correctness.Buf_Simple (0 ms)
+[----------] 1 test from Correctness (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.Buf_Simple" end time: May 27 12:32 EEST
+"Correctness.Buf_Simple" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/15 Testing: Correctness.Buf_Senders
+8/15 Test: Correctness.Buf_Senders
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.Buf_Senders" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.Buf_Senders" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.Buf_Senders
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.Buf_Senders
+[       OK ] Correctness.Buf_Senders (0 ms)
+[----------] 1 test from Correctness (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.Buf_Senders" end time: May 27 12:32 EEST
+"Correctness.Buf_Senders" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/15 Testing: Correctness.Buf_Threads
+9/15 Test: Correctness.Buf_Threads
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.Buf_Threads" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.Buf_Threads" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.Buf_Threads
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.Buf_Threads
+[       OK ] Correctness.Buf_Threads (7 ms)
+[----------] 1 test from Correctness (7 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (7 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.Buf_Threads" end time: May 27 12:32 EEST
+"Correctness.Buf_Threads" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/15 Testing: Correctness.Buf_ThreadsClosed
+10/15 Test: Correctness.Buf_ThreadsClosed
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.Buf_ThreadsClosed" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.Buf_ThreadsClosed" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.Buf_ThreadsClosed
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.Buf_ThreadsClosed
+[       OK ] Correctness.Buf_ThreadsClosed (17 ms)
+[----------] 1 test from Correctness (17 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (18 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.Buf_ThreadsClosed" end time: May 27 12:32 EEST
+"Correctness.Buf_ThreadsClosed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/15 Testing: Correctness.PipelineManager_Test1
+11/15 Test: Correctness.PipelineManager_Test1
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.PipelineManager_Test1" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.PipelineManager_Test1" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.PipelineManager_Test1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.PipelineManager_Test1
+[       OK ] Correctness.PipelineManager_Test1 (107 ms)
+[----------] 1 test from Correctness (107 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (107 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.PipelineManager_Test1" end time: May 27 12:32 EEST
+"Correctness.PipelineManager_Test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/15 Testing: Correctness.PipelineManager_Test4
+14/15 Test: Correctness.PipelineManager_Test4
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.PipelineManager_Test4" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.PipelineManager_Test4" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.PipelineManager_Test4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.PipelineManager_Test4
+[       OK ] Correctness.PipelineManager_Test4 (119 ms)
+[----------] 1 test from Correctness (119 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (124 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.PipelineManager_Test4" end time: May 27 12:32 EEST
+"Correctness.PipelineManager_Test4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/15 Testing: Correctness.PipelineManager_Test2
+12/15 Test: Correctness.PipelineManager_Test2
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.PipelineManager_Test2" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.PipelineManager_Test2" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.PipelineManager_Test2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.PipelineManager_Test2
+[       OK ] Correctness.PipelineManager_Test2 (218 ms)
+[----------] 1 test from Correctness (218 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (218 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.PipelineManager_Test2" end time: May 27 12:32 EEST
+"Correctness.PipelineManager_Test2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/15 Testing: Correctness.PipelineManager_Test3
+13/15 Test: Correctness.PipelineManager_Test3
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.PipelineManager_Test3" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.PipelineManager_Test3" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.PipelineManager_Test3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.PipelineManager_Test3
+[       OK ] Correctness.PipelineManager_Test3 (282 ms)
+[----------] 1 test from Correctness (282 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (282 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.PipelineManager_Test3" end time: May 27 12:32 EEST
+"Correctness.PipelineManager_Test3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/15 Testing: Correctness.PipelineManager_Test5
+15/15 Test: Correctness.PipelineManager_Test5
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.PipelineManager_Test5" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.PipelineManager_Test5" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.PipelineManager_Test5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.PipelineManager_Test5
+[       OK ] Correctness.PipelineManager_Test5 (134 ms)
+[----------] 1 test from Correctness (134 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (134 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.PipelineManager_Test5" end time: May 27 12:32 EEST
+"Correctness.PipelineManager_Test5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/15 Testing: Correctness.Simple_Buf_RunTest3
+4/15 Test: Correctness.Simple_Buf_RunTest3
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.Simple_Buf_RunTest3" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.Simple_Buf_RunTest3" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.Simple_Buf_RunTest3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.Simple_Buf_RunTest3
+[       OK ] Correctness.Simple_Buf_RunTest3 (640 ms)
+[----------] 1 test from Correctness (640 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (640 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.66 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.Simple_Buf_RunTest3" end time: May 27 12:32 EEST
+"Correctness.Simple_Buf_RunTest3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/15 Testing: Correctness.Simple_Buf_RunTest1
+2/15 Test: Correctness.Simple_Buf_RunTest1
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.Simple_Buf_RunTest1" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.Simple_Buf_RunTest1" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.Simple_Buf_RunTest1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.Simple_Buf_RunTest1
+[       OK ] Correctness.Simple_Buf_RunTest1 (665 ms)
+[----------] 1 test from Correctness (665 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (665 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.68 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.Simple_Buf_RunTest1" end time: May 27 12:32 EEST
+"Correctness.Simple_Buf_RunTest1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/15 Testing: Correctness.Simple_Buf_RunTest5
+6/15 Test: Correctness.Simple_Buf_RunTest5
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.Simple_Buf_RunTest5" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.Simple_Buf_RunTest5" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.Simple_Buf_RunTest5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.Simple_Buf_RunTest5
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+[  FAILED  ] Correctness.Simple_Buf_RunTest5 (786 ms)
+[----------] 1 test from Correctness (786 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (786 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Correctness.Simple_Buf_RunTest5
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Failed.
+"Correctness.Simple_Buf_RunTest5" end time: May 27 12:32 EEST
+"Correctness.Simple_Buf_RunTest5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/15 Testing: Correctness.Simple_Buf_RunTest2
+3/15 Test: Correctness.Simple_Buf_RunTest2
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.Simple_Buf_RunTest2" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.Simple_Buf_RunTest2" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.Simple_Buf_RunTest2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.Simple_Buf_RunTest2
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+[  FAILED  ] Correctness.Simple_Buf_RunTest2 (831 ms)
+[----------] 1 test from Correctness (831 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (831 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Correctness.Simple_Buf_RunTest2
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.85 sec
+----------------------------------------------------------
+Test Failed.
+"Correctness.Simple_Buf_RunTest2" end time: May 27 12:32 EEST
+"Correctness.Simple_Buf_RunTest2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/15 Testing: Correctness.Simple_Buf_RunTest4
+5/15 Test: Correctness.Simple_Buf_RunTest4
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.Simple_Buf_RunTest4" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.Simple_Buf_RunTest4" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.Simple_Buf_RunTest4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.Simple_Buf_RunTest4
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+/home/vova/Documents/ChannelProject/tests.cpp:139: Failure
+Value of: current_free_slots >= 0
+  Actual: false
+Expected: true
+[  FAILED  ] Correctness.Simple_Buf_RunTest4 (879 ms)
+[----------] 1 test from Correctness (879 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (879 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Correctness.Simple_Buf_RunTest4
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.90 sec
+----------------------------------------------------------
+Test Failed.
+"Correctness.Simple_Buf_RunTest4" end time: May 27 12:32 EEST
+"Correctness.Simple_Buf_RunTest4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/15 Testing: Correctness.checkPrime
+1/15 Test: Correctness.checkPrime
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.checkPrime" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.checkPrime" start time: May 27 12:32 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.checkPrime
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.checkPrime
+<end of output>
+Test time = 9468.29 sec
+----------------------------------------------------------
+Test Failed.
+"Correctness.checkPrime" end time: May 27 15:09 EEST
+"Correctness.checkPrime" time elapsed: 02:37:48
+----------------------------------------------------------
+
+End testing: May 27 15:09 EEST

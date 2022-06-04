@@ -1,0 +1,25 @@
+HelloTest.BasicAssertions 2 0.00461914
+Correctness.Simple 2 0.0045818
+Correctness.Senders 2 0.00389912
+Correctness.Threads 2 0.00422214
+Correctness.ThreadsClosed 0 0
+Correctness.checkPrime 0 0
+Correctness.Simple_Buf_RunTest1 1 0.67969
+Correctness.Simple_Buf_RunTest2 0 0
+Correctness.Simple_Buf_RunTest3 1 0.656274
+Correctness.Simple_Buf_RunTest4 0 0
+Correctness.Simple_Buf_RunTest5 0 0
+Correctness.Buf_Simple 1 0.0274118
+Correctness.Buf_Senders 1 0.0322264
+Correctness.Buf_Threads 1 0.0397673
+Correctness.Buf_ThreadsClosed 1 0.0458811
+Correctness.PipelineManager_Test1 1 0.135573
+Correctness.PipelineManager_Test2 1 0.262534
+Correctness.PipelineManager_Test3 1 0.298593
+Correctness.PipelineManager_Test4 1 0.143526
+Correctness.PipelineManager_Test5 1 0.196505
+---
+Correctness.Simple_Buf_RunTest5
+Correctness.Simple_Buf_RunTest2
+Correctness.Simple_Buf_RunTest4
+Correctness.checkPrime

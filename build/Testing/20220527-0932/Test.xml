@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220527-0932-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="VovaDesktop-CH"
+	OSRelease="5.15.0-33-generic"
+	OSVersion="#34-Ubuntu SMP Wed May 18 13:34:26 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="24"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="30032"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3700.33"
+	>
+	<Testing>
+		<StartDateTime>May 27 12:32 EEST</StartDateTime>
+		<StartTestTime>1653643931</StartTestTime>
+		<TestList>
+			<Test>./Correctness.Buf_Simple</Test>
+			<Test>./Correctness.Buf_Senders</Test>
+			<Test>./Correctness.Buf_Threads</Test>
+			<Test>./Correctness.Buf_ThreadsClosed</Test>
+			<Test>./Correctness.PipelineManager_Test1</Test>
+			<Test>./Correctness.PipelineManager_Test4</Test>
+			<Test>./Correctness.PipelineManager_Test2</Test>
+			<Test>./Correctness.PipelineManager_Test3</Test>
+			<Test>./Correctness.PipelineManager_Test5</Test>
+			<Test>./Correctness.Simple_Buf_RunTest3</Test>
+			<Test>./Correctness.Simple_Buf_RunTest1</Test>
+			<Test>./Correctness.Simple_Buf_RunTest5</Test>
+			<Test>./Correctness.Simple_Buf_RunTest2</Test>
+			<Test>./Correctness.Simple_Buf_RunTest4</Test>
+			<Test>./Correctness.checkPrime</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>Correctness.Buf_Simple</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.Buf_Simple</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Buf_Simple" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0274118</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Buf_Simple" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUMtqw0AMvO9X6Bgf7G2vhRzapORQSIPdnowxG1t2tuyuzD7c368fITgFQ+YkMSNpRmkwRpoWtJBmE0FjSQO/kEbeUy/4nqqg0XjHdxdhDKqTpR+sPD8HqWpe1tg53hK1Cj06HztbLVo+tWNVjvuTqmJH8vgCh0kCXwMDjVQeLWxhR9YOqw06l7yFpsyk7hSyfHtDAenV7jP4aXa0e61dkB4Tlsc3FHBQdBZq5tH00pIZ04BDH4fun3i5c+GF5ZB+H2FCsWpy5uHzY1UDmyfQLnro5qwFT16oiD2WyaOwcU2/5v5ja58CK0xyf2cIcXrNsvf9GHTWJuwP9IqxIw==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.Buf_Senders</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.Buf_Senders</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Buf_Senders" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0322264</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Buf_Senders" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUMtqw0AMvO9X6Bgf7G2vhRzapORQSIPdnkwwG1t2tqylsA/39+tHCE7BkDlJaDSaURqINDXQKk2rCGrLLcgztyg77pTcchlaJO/k5qyI0Bws/2Dp5SloU8miwouTDXNj0KPzsbPlrJVjO1TFoJ+UpdizxxfYjRT46idQa+PRwho2bG0vTehc8hbqIkOq0DqRr284Qnr1+wx+XB78XmsXtMdE5PENR9gZPikzzZE6bZmGOODQx+HyjzzXnJkROaTfexhxXHY5EeDzY5kEqydoXfTQ1YkLnr0ykXgslUdl44p/6f5nS78Cqyi5v9OnOLxm2ft2iDpxE/EHYaKyYQ==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.Buf_Threads</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.Buf_Threads</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Buf_Threads" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0397673</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Buf_Threads" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUMtqw0AMvO9X6Bgf7KWnQiGHNgk5FNLgpCdjzMaW7S3rVdiV3d+vHyE4BUPmJKHRaEZxa622FTRK21UApaMGZE0Nyo46JbeUtw1a9nJTK2vRHB39YM7y0mpTyKzAq5cVUWWQ0XPoXT5r5dgOVTboR3kuDsT4BvuRAud+AqU2jA7WsCHnemmL3kcfbZmda4eq8CJZ35FCfPP7AjwuD35vtW81YySS8I4U9oYuykxztJ12ZIc44JHD9vqPPNecmREJxN8HGJEuu5wI8PW5TILVKzQ+eOrqxAUmViYQz6ViVC4s6Nc+/mzpV+CUjR7v9CmO76fTbjtEnbiR+ANPmbJb====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.Buf_ThreadsClosed</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.Buf_ThreadsClosed</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Buf_ThreadsClosed" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0458811</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Buf_ThreadsClosed" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkMtqw0AMRffzFVrGC3vIqqWQReuELAppcNKVMWZiy/aU8SjMw/39+kVwCyXRSkKHq3uVeK2lrqEVUq8CqAy1wBtqkXfUCb6lwreoneVxI7RGdTT0hYXjFy9VyfMSr5bXRLVCh9aF1hSLkY/j0OWDflQU7EAOX2A/InDuN1BJ5dDABmIyppfWaG305qv83BgUpY0VWSxZurlVBsnseg1ulBhcz7310mHE0vBWGewVXYSa9qg7aUgPocCiC/31D7zUXFhiKSSfBxgru+d1wuDj/R4Kq/UTtDZ4yMIMgyMnVMAey+hQmLCkb/37g/99DozQUX/oeXGoj3N8PZ122yH5BEfsB8jyuf0=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.PipelineManager_Test1</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.PipelineManager_Test1</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test1" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.135573</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test1" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkEFrg0AQhe/+ijnGg249FQo5lKTkUJqKaU8istGJ2bLOyO5q/35dkwYbKDinGebjzXuT9USKGmilolUIJ8MtiDO3KAYepNhy1bdIzorNWRKhTg1/YeXEsVe6FmWNnRUNc6PRoXWRNdVsFNPou9Lrx1UV7NnhE+wmBD7GDZyUdmhgDRs2ZpQmtDZOVYdaEb5Jkg2a0pNJkK9vVUB2dZ6Am2S882tve+UwDvLoVgXsNB+lvuyRBmWYfDCw6KK+u4PnmjNbQQ7Z5x6mKpb4vaDw/roEh1Xy8AitDRd5+aXBsZM6DJaldShNVPM3/f3lfz8EIym+vzSmSp8Ph5etf8KFjoMfobq/DA==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.PipelineManager_Test4</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.PipelineManager_Test4</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test4" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.143526</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test4" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkE9rg0AQxe9+ijnGgy6WXFrIoSQhh9JUTHsSkY1OzJZ1RnZX+/XrnzTYQsE5zTA/3rw3SUukqIJaKlr5cDFcg7hyjaLjToodF22N5KzYXiUR6tjwJxZOnFulS5GX2FhRMVcaHVoXWFPMRjGOQ5cP+mFReEd2+ASHEYH3fgMXpR0a2MCWjemlCa0NY9WgVoSvkmSFJh/ItZdu7pVBcnMegRtlBue33rbKYeilwb0yOGg+Sz3tkTplmIZgYNEFbfMHnmvObHkpJB9HGCtb4ndC4e1lCQ6rKHqE2vqLvPzQ4NhJ7XvL0jqUJij5i37/8r8fgpEU9pce1rNLfar4+XTa74YnTHTofQOvQb8a====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.PipelineManager_Test2</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.PipelineManager_Test2</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test2" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.262534</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test2" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkEFrg0AQhe/+ijnGgy7JqRRyKEnIoTQV055EZKMTs2Wdkd3V/v26Jg02UHBOM8zHm/cm7YgU1dBIRYsQzoYbEBduUPTcS7HlsmuQnBWbiyRCnRj+wtKJU6d0JYoKWytq5lqjQ+sia8rJKMbRd4XXj8syOLDDZ9iPCHwMGzgr7dDAGjZszCBNaG2cqBa1InyTJGs0hSdXQba+Vw7pzfkS3Cjjnd962ymHcZBF98phr/kk9XWP1CvD5IOBRRd17QM81ZzYCjJIPw8wVj7H7xWF99c5OCxWyydobDjLyy8Njp3UYTAvrUNpooq/6e8v//shGEnx46UhVfJyPO62/glXOg5+AKk6vxg=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.PipelineManager_Test3</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.PipelineManager_Test3</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test3" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.298593</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test3" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkEFrg0AQhe/+ijnGgy5NL6WQQ0lCDqWpmPYkIhudmC3rjOyu9u/XNWmwgYJzmmE+3rw3aUekqIZGKlqEcDLcgDhzg6LnXooNl12D5KxYnyUR6sTwF5ZOHDulK1FU2FpRM9caHVoXWVNORjGOviu8flyWwZ4dPsNuROBj2MBJaYcGVrBmYwZpQmvjRLWoFeGbJFmjKTz5GGSrW+WQXp0/gBtlvPNrbzvlMA6y6FY57DQfpb7skXplmHwwsOiirr2Dp5oTW0EG6ecexsrn+L2g8P46B4fF8mkJjQ1nefmlwbGTOgzmpXUoTVTxN/395X8/BCMpvr80pEpeDoftxj/hQsfBD638vx4=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.PipelineManager_Test5</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.PipelineManager_Test5</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test5" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.196505</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.PipelineManager_Test5" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkEFrg0AQhe/+ijnGgy6h7aWQQ0lCDqWpmPYkIhudmC3rjOyu9u/XNWmwgYJzmmE+3rw3aUekqIZGKlqEcDLcgDhzg6LnXooNl12D5KxYnyUR6sTwF5ZOHDulK1FU2FpRM9caHVoXWVNORjGOviu8flyWwZ4dPsNuROBj2MBJaYcGVrBmYwZpQmvjRLWoFeGbJFmjKTz5FGSrW+WQXp0vwY0y3vm1t51yGAdZdKscdpqPUl/2SL0yTD4YWHRR197BU82JrSCD9HMPY+Vz/F5QeH+dg8Ni+fAIjQ1nefmlwbGTOgzmpXUoTVTxN/395X8/BCMpvr80pEpeDoftxj/hQsfBD67jvxg=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.Simple_Buf_RunTest3</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.Simple_Buf_RunTest3</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest3" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.656274</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest3" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkMtqw0AMRff+Ci3jhT0tLV0UsmiTkkUhDXa7CsZMHNmZMpbMPNzfrx9pcAMh0UpCh6t7lXgiRRXUUtEshNJwDeLANYqWWymWXPgayVmxOEgi1BvD31g4sfNK70W+x8aKirnS6NC6yJpiMoph7Lu814+LIlizw2dYDQh8dhsolXZoYA4LNqaTJrQ2TlXdaMxffZknnnruIdjOT5VBcvR9D24Q6X0fe+uVwzjYRqfKYKV5J/W4R2qVYepjgUUX+eYMnmpOTAVbSL7WMFR23e0Iwsf7dRhmT493UNvwJh9/NDh2UofBbUkdShPt+Yf+//HS/8BIis8vdZk2L2n6tuwfMNJx8At017yW====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Correctness.Simple_Buf_RunTest1</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.Simple_Buf_RunTest1</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest1" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.67969</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest1" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkD9vwkAMxfd8Co9kSE4MZajE0AJiqERR0k5RFB2JE6662NH9oV+/JKEoRarAky3/9PyeE0+kqIFWKpqFUBtuQRy5RXHikxRrLn2L5KxYHSUR6r3hLyydOHilK1FU2FnRMDcaHVoXWVNORjGMfVf0+nFZBjt2+AzbAYGP8wZqpR0aWMKKjTlLE1obp6rtNBavvi4STz03D7LltXJILr7n4AaR3velt145jIMsulYOW80Hqcc90kkZpj4WWHSR727gqebEVJBB8rmDofL7bkcQ3t/uwzBbLJ6gteFDPn5pcOykDoPHkjqUJqr4m/7+8b//gZEU3146Z9q/pOlm3T9gpOPgB3gcvKU=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>Correctness.Simple_Buf_RunTest5</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.Simple_Buf_RunTest5</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest5" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.805883</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest5" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJztmE1rwkAQhu/7K+ZYockqpV8BC9YvCkXE2F5EwhonumWzG/ZD+/ObGCsqlNpLTzunXeblfWbm+E6clFyuIGdcXjUg0yoHulY50o3aMNpTqctRWkO7ayYlirFWH5haunBcLGmyxMLQlVIrgRaNDYxOj750961eSeUfpikZKYsRDHcSmJYdyLiwqKENXaV1aS3RmDDmeSEweXZZMnGy0t2SWftQc5js526B3ZlUc+/fxnGLIZkFh5rDUKgFE3Uf5YZrJau1wKANXHEmPvY8GorMYPI2gl3Nf532kiNWGBOmRRG1bh4jGDAunEbyzoRDUFkEqSsh0iaZRkyMUNbAUxuaBKCTWsdEBBkTBkn/syj9cBmB1Q4927M927M927M927M927M927M927M9+x/YM4BB5+W137sgKICr+4c7yE3jogziWw1WWSYa5LKUwyLTwVJt5WmG8lN2AprJ8JxU7jTuxHG9UxPq051uWntcg+CmvAUsUKht9KdjEFKa7NXTfjwlX2DGdJo=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>Correctness.Simple_Buf_RunTest2</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.Simple_Buf_RunTest2</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest2" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.846526</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest2" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVUU1rwkAQve+vmGOFJtF6aQMWrF8UikhiexEJ62aiWza7YT+0P7+baEWF0nROM8zjzXtvEicll1soKZd3HSi0KiHaqRKjvdrTaKyYK1FaE412VEoUC60+kdlo47jIoyzHykRbpbYCLRobGM0uxqgZ6y6r+UPGyFxZjGHWQGDpN1BwYVHDAEZKa08t0Zgw5WUlMHtxRZY4WeMeyGpwrjUkJ909sA1JrfvUG8cthmQVnGsNM6E2VBz3KPdcK1nbAoM2cNUN+JLzQhRZQfI+h6bWf6ptE2J9xoSsquJe/ymGKeXCaSQfVDgEVcTAnD8ibVZoxMwIZQ08D6BLAIbMOipiKKgwSCZflefDPAarHXqhMB2+vk3GLYTC3WO/B6XptMrgBw1WWSo6pF3KFqkOcnWQ1z/87XegqQxvL3lPi2GaHj114RjdtdMjxz0IbnwWsEGhDvG/wiDEk5zQy0m6JN9uJwYI====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>Correctness.Simple_Buf_RunTest4</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.Simple_Buf_RunTest4</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest4" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.896335</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.Simple_Buf_RunTest4" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJzt3c1q20AQwPG7nmKOMdRWQgttBC64iRMKJQTb7cUYIcsrR2W1K/bD6eNXst3gBErd+39Pu+wwv5l5gZlFY2qzlaaozcVAKmcbSZ9so9Kd3RXprS1jo0zw6c1TYYzSj87+VGVI17HWmzTfqNanW2u3WgXlw9C78uSZ7p/9Le/zj8oyebBBZXK/D5FF9yNVrYNyMpYb61yX2ijvR/O6abXKv8Qqn0XTx31IluOXs5LZse4rCfskfd3Hu491UKNkOXw5K7nXdl3ow78yu9pZ07clXoVhbN8En+Y8KSpZyuz7g+zP6p/VnjPEnvGjsm2zq/fXmdwVtY5OJT8KHZXYKpMydogJeeWUyr22wcvnsVwmIpMyxEJnUhXaq2T6q+3yqU0mwUWFjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY19tJcid5Ov36a3ZywjlItPH6+l8YOz9hz+iZZgQ6EHyXmbFIMq3HBjn83rPY1/288orjCjt1LX0+NkPj/0dCmH0b3u9JDjnejad7OQtdL2OfuvYSRJl+QYvZjOF8lvgXs7dA==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>Correctness.checkPrime</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.checkPrime</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.checkPrime" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Subprocess terminated</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>0</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>9468.29</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.checkPrime" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJx1T0EKwjAQvPcVe9RDG7wKPVXwJlL0VEqpcW2jya4km75fW6UUwTnNMLPDbBmJDHXgWkOrNdw8O1A9O1QDD63asY4OSYIq+pYI7dHzHbWoSzT2qporPoPqmDuLgkHS4PVCqkmOrBn7M62TAwtuYT9F4PR24GasoIccCvb+XU0YQqZ71I+jNw6TKp9RQ/mduwGZbse5Xx6iEcySKp1Rw97ypbUfH2kwnmn8BgJKGp8/4WXnYktSQXk+wIT638gXJ/lvmg==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>May 27 15:09 EEST</EndDateTime>
+		<EndTestTime>1653653399</EndTestTime>
+		<ElapsedMinutes>157</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,1 @@
+/usr/bin/c++   -fsanitize=thread,thread   CMakeFiles/Test.dir/tests.cpp.o  -o Test  lib/libgtest_main.a lib/libgtest.a -lpthread 
