@@ -18,8 +18,5 @@ Correctness.PipelineManager_Test2 1 0.262534
 Correctness.PipelineManager_Test3 1 0.298593
 Correctness.PipelineManager_Test4 1 0.143526
 Correctness.PipelineManager_Test5 1 0.196505
+Correctness.UNI_EmailParsing 1 1369.76
 ---
-Correctness.Simple_Buf_RunTest5
-Correctness.Simple_Buf_RunTest2
-Correctness.Simple_Buf_RunTest4
-Correctness.checkPrime

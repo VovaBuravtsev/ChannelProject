@@ -1,0 +1,74 @@
+Start testing: Jun 04 21:27 EEST
+----------------------------------------------------------
+1/1 Testing: Correctness.UNI_EmailParsing
+1/1 Test: Correctness.UNI_EmailParsing
+Command: "/home/vova/Documents/ChannelProject/build/Test" "--gtest_filter=Correctness.UNI_EmailParsing" "--gtest_also_run_disabled_tests"
+Directory: /home/vova/Documents/ChannelProject/build
+"Correctness.UNI_EmailParsing" start time: Jun 04 21:27 EEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vova/Documents/ChannelProject/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Correctness.UNI_EmailParsing
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Correctness
+[ RUN      ] Correctness.UNI_EmailParsing
+TIME FOR EmailParsing in 1 threads is: - 78.9286
+TIME FOR EmailParsing in 2 threads is: - 39.3899
+TIME FOR EmailParsing in 4 threads is: - 22.3106
+TIME FOR EmailParsing in 8 threads is: - 19.8205
+
+TIME FOR EmailParsing in 1 threads is: - 77.3848
+TIME FOR EmailParsing in 2 threads is: - 39.3721
+TIME FOR EmailParsing in 4 threads is: - 23.6777
+TIME FOR EmailParsing in 8 threads is: - 19.3479
+
+TIME FOR EmailParsing in 1 threads is: - 78.1451
+TIME FOR EmailParsing in 2 threads is: - 40.858
+TIME FOR EmailParsing in 4 threads is: - 23.9588
+TIME FOR EmailParsing in 8 threads is: - 19.465
+
+TIME FOR EmailParsing in 1 threads is: - 78.7679
+TIME FOR EmailParsing in 2 threads is: - 39.7091
+TIME FOR EmailParsing in 4 threads is: - 23.0866
+TIME FOR EmailParsing in 8 threads is: - 19.1769
+
+TIME FOR EmailParsing in 1 threads is: - 77.3989
+TIME FOR EmailParsing in 2 threads is: - 39.578
+TIME FOR EmailParsing in 4 threads is: - 22.7787
+TIME FOR EmailParsing in 8 threads is: - 19.5883
+
+TIME FOR EmailParsing in 1 threads is: - 78.2242
+TIME FOR EmailParsing in 2 threads is: - 39.2638
+TIME FOR EmailParsing in 4 threads is: - 23.6864
+TIME FOR EmailParsing in 8 threads is: - 20.1966
+
+TIME FOR EmailParsing in 1 threads is: - 78.1322
+TIME FOR EmailParsing in 2 threads is: - 39.7226
+TIME FOR EmailParsing in 4 threads is: - 24.5383
+TIME FOR EmailParsing in 8 threads is: - 19.4891
+
+TIME FOR EmailParsing in 1 threads is: - 81.6604
+TIME FOR EmailParsing in 2 threads is: - 40.4212
+TIME FOR EmailParsing in 4 threads is: - 23.1556
+TIME FOR EmailParsing in 8 threads is: - 19.145
+
+Avg 1 thread work: 78.5803
+Avg 2 thread work: 39.7893
+Avg 4 thread work: 23.3991
+Avg 8 thread work: 19.5287
+[       OK ] Correctness.UNI_EmailParsing (1369711 ms)
+[----------] 1 test from Correctness (1369711 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1369711 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time = 1369.76 sec
+----------------------------------------------------------
+Test Passed.
+"Correctness.UNI_EmailParsing" end time: Jun 04 21:50 EEST
+"Correctness.UNI_EmailParsing" time elapsed: 00:22:49
+----------------------------------------------------------
+
+End testing: Jun 04 21:50 EEST

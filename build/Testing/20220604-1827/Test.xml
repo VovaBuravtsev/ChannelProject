@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220604-1827-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="DesktopVBD"
+	OSRelease="5.13.0-44-generic"
+	OSVersion="#49~20.04.1-Ubuntu SMP Wed May 18 18:44:28 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="24"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="979"
+	TotalPhysicalMemory="30032"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4046.11"
+	>
+	<Testing>
+		<StartDateTime>Jun 04 21:27 EEST</StartDateTime>
+		<StartTestTime>1654367240</StartTestTime>
+		<TestList>
+			<Test>./Correctness.UNI_EmailParsing</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>Correctness.UNI_EmailParsing</Name>
+			<Path>.</Path>
+			<FullName>./Correctness.UNI_EmailParsing</FullName>
+			<FullCommandLine>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.UNI_EmailParsing" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>1369.76</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vova/Documents/ChannelProject/build/Test "--gtest_filter=Correctness.UNI_EmailParsing" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVk81uwjAQhO95ij22B5x/7CBxorTqobRC9IQQCslCXCU2sp20ffs6aYVQRCNlT3Z2ZzKfbK9rIbg4QZVycXcPRyUrcAtZodvIJnUfZFZXKIx2F0UqBJZvSn5gZtxDzcvc3ed41u5JylOJBrWZaJVdbd1u2672rT/JMmclDc7gqRuBje3AkZcGFcxhIZWy1gK1Ju+r5/3Sasq3VGmbz9nOL7WD9V9oH0zn0Ib+W+uaGyTOdnKpHTyV8pCWv30UDVdStEyg0Uzqc2/42vMqkbOF9fsKutoNR908vyzh8XUN11+Bi9a6UJjmGriewQQoI0nApv8Lgp4gTEjIkuR/QdQTBAEJfW/gD6wn8BPCAi92RkBQmyli4yBo4I+ACMmUUjoKIoxoMgaCET+KBzL1ISKPsHgA+gZDErMBwQ2GaDrqHBihUzpwN26cA/USQoizKRBUe+nl0c7g7wOQtTnXBj5TbXuVbDAH65QhcPuIvjJEa9QNW1NdyDJv1b4XRHD4tgbE+QEEOF1F====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jun 04 21:50 EEST</EndDateTime>
+		<EndTestTime>1654368609</EndTestTime>
+		<ElapsedMinutes>22</ElapsedMinutes>
+	</Testing>
+</Site>
